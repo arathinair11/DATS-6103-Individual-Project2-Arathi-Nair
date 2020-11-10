@@ -5,5 +5,3 @@ The data for this study has been sourced from an ongoing global survey conducted
 
 Data Source: https://github.com/YouGov-Data/covid-19-tracker
 
-
-https://github.com/arathinair11/DATS-6103-Individual-Project2-Arathi-Nair.wiki.git
